@@ -1,2 +1,3 @@
-06_Kubernetes/kube/** linguist-documentation=true
-06_Kubernetes/kube/** linguist-vendored=true
+*.sh linguist-detectable=true
+*.yml linguist-detectable=true
+
